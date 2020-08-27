@@ -8,8 +8,7 @@
     "lint": "tslint --project tslint.json src/**/**.ts",
     "test": "jest --watch",
     "coverage": "jest --coverage",
-    "ci": "jest --coverage --verbose",
-    "postinstall": "tsc"
+    "ci": "jest --coverage --verbose"
   },
   "repository": {
     "type": "git",
