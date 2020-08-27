@@ -37,7 +37,7 @@
     "url": "https://github.com/jaredmahan/odata-query-builder/issues"
   },
   "homepage": "https://github.com/jaredmahan/odata-query-builder#readme",
-  "devDependencies": {
+  "dependencies": {
     "@types/jest": "^23.3.1",
     "@types/lodash": "^4.14.149",
     "@types/lodash.orderby": "^4.6.6",
